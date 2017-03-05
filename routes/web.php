@@ -16,6 +16,5 @@ Route::get('/', function () {
 });
 Route::get('/page', function () {
     echo "Hello!!!!!!!!!!!!!!";
-
     return;
 });
