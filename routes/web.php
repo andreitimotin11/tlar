@@ -14,4 +14,4 @@
 //Route::get('/', function () {
 //    return view('welcome');
 //});
-Route::get('/about/{id}', 'FirstController@show');
+Route::get('/about/', 'FirstController@show');
