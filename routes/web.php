@@ -14,7 +14,4 @@
 Route::get('/', function () {
     return view('welcome');
 });
-Route::get('/page', function () {
-    echo "Hello!!!!!!!!!!!!!!";
-    return;
-});
+Route::get('/about', 'FirstContoller@show');

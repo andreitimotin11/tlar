@@ -12,5 +12,7 @@ namespace app\Http\Controllers;
 
 class FirstController extends Controller
 {
-
+    public function show(){
+        echo __METHOD__;
+    }
 }
