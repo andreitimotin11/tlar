@@ -6,9 +6,9 @@
  * Time: 15:10
  */
 
-namespace app\Http\Controllers;
+namespace App\Http\Controllers;
 
-use app\Http\Controllers\Controller;
+use App\Http\Controllers\Controller;
 
 class FirstController extends Controller
 {
