@@ -6,11 +6,11 @@
  * Time: 15:10
  */
 
-namespace App\Http\Controllers;
+namespace app\Http\Controllers;
 
-use App\Http\Controllers\Controller;
+use app\Http\Controllers\Controller;
 
-class FirstController extends Controller
+class FirstController
 {
     public function show($id){
 //        echo __METHOD__;
