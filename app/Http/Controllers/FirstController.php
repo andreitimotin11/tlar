@@ -8,7 +8,7 @@
 
 namespace app\Http\Controllers;
 
-use app\Http\Controllers\Controller;
+//use app\Http\Controllers\Controller;
 
 class FirstController extends Controller
 {
