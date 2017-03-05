@@ -12,7 +12,8 @@ namespace app\Http\Controllers;
 
 class FirstController extends Controller
 {
-    public function show(){
+    public function show($id){
         echo __METHOD__;
+        echo $id;
     }
 }
