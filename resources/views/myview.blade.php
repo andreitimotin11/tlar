@@ -6,4 +6,4 @@
  * Time: 13:44
  */
 ?>
-Surprise MOTHERFUCKER~!
+Hello!
